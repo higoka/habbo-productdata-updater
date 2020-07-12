@@ -1,6 +1,9 @@
 # habbo-productdata-updater
 A tiny script to update productdata with missing names and descriptions.
 
+#### THIS SCRIPT ONLY WORKS WITH THE **XML VERSION** OF THE PRODUCTDATA. CHANGING THE FILE EXTENSION TO .XML **DOESN'T MAKE IT A VALID XML FILE**. DOWNLOAD THE XML PRODUCTDATA FROM HABBO DIRECTLY. 
+- https://www.habbo.com/gamedata/productdata_xml/0
+
 # Usage
 1. Download this repository to your computer.
 2. Replace both files inside `resource` folder with your own files.
